@@ -1,0 +1,2 @@
+"""Redirect detection logic."""
+
