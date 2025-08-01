@@ -1,3 +1,5 @@
+# app/core/payloads.py
+
 PAYLOADS = [
     "https://evil.com",
     "http://evil.com",

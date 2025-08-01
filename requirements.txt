@@ -1,1 +1,1 @@
-# PyQt5, aiohttp, tqdm, etc.
+PyQt5
